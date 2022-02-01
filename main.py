@@ -1,5 +1,11 @@
 import turtle
 Rafael = turtle.Turtle()
+Rafael.shape("turtle")
 Rafael.color("green")
-Rafael.circle(100)
-Rafael.circle(100,steps=4)
+Rafael.forward(100)
+Rafael.right(90)
+Rafael.forward(100)
+Rafael.right(90)
+Rafael.forward(100)
+Rafael.right(90)
+Rafael.forward(100)
